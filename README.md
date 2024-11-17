@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/danhollenbach/danhollenbach/output/github-contribution-grid-snake.svg" /> -->
+<!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NunesFilipeNobre/NunesFilipeNobre/output/github-contribution-grid-snake.svg" /> -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NunesFilipeNobre/NunesFilipeNobre/output/github-contribution-grid-snake-dark.svg">
