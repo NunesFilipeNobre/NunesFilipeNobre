@@ -25,9 +25,7 @@
   <a href = "mailto:nunesfilipenobre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/filipe-nobre-405486299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
 
-<div>
 <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NunesFilipeNobre/NunesFilipeNobre/output/github-contribution-grid-snake.svg" /> -->
 
 <picture align="center">
