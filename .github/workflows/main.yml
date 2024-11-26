@@ -5,7 +5,7 @@ name: Generate Snake
 on:
   schedule:
       # every 12 hours
-    - cron: "0 */12 * * *"
+    
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -50,3 +50,6 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          #https://www.h-schmidt.net/FloatConverter/IEEE754.html
+          #https://baseconvert.com
+          #https://planetcalc.com/8574/
