@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Filipe Nunes 👋
 
-- 👨‍🎓 Primeiro semestre de Ciência da Computação na UnB
+- 👨‍🎓  semestre de Ciência da Computação na UnB
 - 🌱 Estou estudando C
 - 🤔 Procuro interessados em hackear um Furby
 - 😄 Pronomes: Ele/Dele
