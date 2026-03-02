@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Filipe Nunes 👋
 
-- 👨‍🎓 3º semestre de Ciência da Computação na UnB
+- 👨‍🎓 4º semestre de Ciência da Computação na UnB
 - 🌱 Estou estudando C
 - 😄 Pronomes: Ele/Dele
 
