@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Filipe Nunes 👋
 
-- 👨‍🎓 4º semestre de Ciência da Computação na UnB
-- 🌱 Estou estudando C
-- 😄 Pronomes: Ele/Dele
+- 👨‍🎓 5º semestre de Ciência da Computação na UnB
+- 🌱 Estou estudando Ruby
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=NunesFilipeNobre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
